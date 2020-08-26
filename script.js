@@ -19,9 +19,8 @@ function writePassword() {
 }
 
 // Add event listener to generate button
-// Criteria prompts and confirm alerts will pop up when the 'generate password' button is clicked
-
 generateBtn.addEventListener("click", writePassword);
+// Criteria prompts and confirm alerts will pop up when the 'generate password' button is clicked
 function generatePassword() {
   var length = prompt("How many characters would you like in your password? (8-128)");
 
