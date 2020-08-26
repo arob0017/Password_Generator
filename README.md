@@ -11,3 +11,13 @@ This was done using Javascript.
 
 https://arob0017.github.io/Password_Generator/ <br>
 https://github.com/arob0017/Password_Generator
+
+<div align="centre">
+    <img src="https://github.com/arob0017/Password_Generator/blob/master/Generated%20Password.png" width="400px"</img> 
+</div>
+<div align="centre">
+    <img src="https://github.com/arob0017/Password_Generator/blob/master/Password%20Generator%20-%20Prompt.png" width="400px"</img> 
+</div>
+<div align="centre">
+    <img src="https://github.com/arob0017/Password_Generator/blob/master/Pwd%20Gen%2C%20requirement%20fail.png" width="400px"</img> 
+</div>
