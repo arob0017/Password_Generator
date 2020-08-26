@@ -9,5 +9,5 @@ Next, I used the 'Math.random' method to randomly extract characters from the ne
 
 This was done using Javascript. 
 
-https://arob0017.github.io/Password_Generator/
+https://arob0017.github.io/Password_Generator/ <br>
 https://github.com/arob0017/Password_Generator
