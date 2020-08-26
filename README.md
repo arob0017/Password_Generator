@@ -8,5 +8,6 @@ In order to for the password to generate using the information the user has inpu
 Next, I used the 'Math.random' method to randomly extract characters from the new array that holds total amount of characters that the user has selected. This is then 'returned' to produce the final password.
 
 This was done using Javascript. 
+
 https://arob0017.github.io/Password_Generator/
 https://github.com/arob0017/Password_Generator
