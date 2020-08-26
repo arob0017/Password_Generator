@@ -67,12 +67,3 @@ function generatePassword() {
     }
   }
 }
-
-
-
-
-
-
-
-
-
